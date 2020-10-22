@@ -2,6 +2,8 @@
 
 ### A Slots Game built using SwiftUI
 
+![Simulator Screen Shot](https://github.com/kenfai/SlotsDemo-iOS/raw/main/Simulator%20Screen%20Shot.png)
+
 ### Reference
 
 https://www.youtube.com/watch?v=VlhcNR7Qrno
